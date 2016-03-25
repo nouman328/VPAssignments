@@ -1,0 +1,6 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\Compiiler\Compiiler\bin\Debug\Compiiler.exe.config
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\Compiiler\Compiiler\bin\Debug\Compiiler.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\Compiiler\Compiiler\bin\Debug\Compiiler.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\Compiiler\Compiiler\obj\Debug\Compiiler.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\Compiiler\Compiiler\obj\Debug\Compiiler.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\Compiiler\Compiiler\obj\Debug\Compiiler.pdb
